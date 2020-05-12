@@ -28,7 +28,7 @@
         <br>
         <label for="i-description">Popis</label>
         <textarea name="description" id="i-description" cols="30" rows="10"></textarea>
-
+        <br>
         <input type="submit" value="Odeslat">
     </form>
 
